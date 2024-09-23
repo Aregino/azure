@@ -1,2 +1,9 @@
-# azure
-Informações sobre a cloud azure, Synapse, RG, PySpark e outros
+# AZURE | Key Vault
+
+Informações sobre Key Vualt:
+
+- Criando Key Vault;
+- Permissões;
+- mssparkutils;
+- Secrets;
+- Pepiline;
